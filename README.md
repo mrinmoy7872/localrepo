@@ -1,4 +1,4 @@
 # mrinmoy
 This is my first repository.
 <br>
-Author - Mrinmoy Guchhait
+Author - Mrinmoy Guchhait(MG)
